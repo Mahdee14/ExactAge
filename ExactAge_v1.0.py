@@ -1,4 +1,4 @@
-n1ame = input("Welcome to ExactAge_v1.0\nPlease enter only your first name \n") #Name of person 1
+name = input("Welcome to ExactAge_v1.0\nPlease enter only your first name \n") #Name of person 1
 
 p1day = input("Please enter your birth day: ") #Date of birth of person 1
 p1month = input("Please enter your birth month: ")
